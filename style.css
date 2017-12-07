@@ -1,16 +1,18 @@
 body{
 	background-color:#dee5f1;
-	margin: auto;
+	margin: 0 ;
 }
 header{
 	background-color:#233c79;
-    
+    position: relative;
     height: 196px;
     width:auto;
+    top: -20px;
 }
-header .h1{
+header h1{
 	color: #b2bfcf;
-	text-align: center; 
+	text-align: center;
+    vertical-align: middle;
 }
 #content{
 	background-color:#4780d2;
@@ -22,11 +24,10 @@ header .h1{
 footer{
   background-color: rgb(178, 191, 207);
   box-shadow: inset 0px 1px 0px 0px rgba(151, 161, 174, 0.004);
-  position: absolute;
-  left: -2px;
-  top: 949px;
-  height: 73px;
-  width: 1030px;
+  position: relative;
+  height: 40px;
+  width: auto;
+  bottom: -67px;
  }
 
 
