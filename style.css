@@ -1,0 +1,33 @@
+body{
+	background-color:#dee5f1;
+	margin: auto;
+}
+header{
+	background-color:#233c79;
+    
+    height: 196px;
+    width:auto;
+}
+header .h1{
+	color: #b2bfcf;
+	text-align: center; 
+}
+#content{
+	background-color:#4780d2;
+	position: relative;
+	height: 411px;
+	width: 937px;
+	margin: 0 auto;
+}
+footer{
+  background-color: rgb(178, 191, 207);
+  box-shadow: inset 0px 1px 0px 0px rgba(151, 161, 174, 0.004);
+  position: absolute;
+  left: -2px;
+  top: 949px;
+  height: 73px;
+  width: 1030px;
+ }
+
+
+
